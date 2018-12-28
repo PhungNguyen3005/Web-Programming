@@ -1,0 +1,22 @@
+table{
+    border: 1px solid;
+    border-collapse: collapse;
+}
+th{
+    background-color: greenyellow;
+    color: white;
+    border: 1px solid black;
+    box-shadow: 1px 2px;
+}
+tr:nth-of-type(2n+1){
+    background-color: beige;
+}
+td{
+    border: 1px solid ;
+    width: 150px;
+
+}
+.id{
+    border-bottom-style: groove;
+}
+
